@@ -1,0 +1,24 @@
+html, body, section, article, h1, h2, p, ol ul {
+    margin: 0;
+    padding: 0;
+    border: 0;
+
+    font: inherit;
+    font-size: inherit;
+    font-family: inherit;
+    text-align: inherit;
+    color: inherit;
+}
+
+body {
+    line-height: 1.5;
+}
+
+img {
+    display: inline;
+    /* width: 100%; */
+}
+
+figure {
+    width: 200px;
+}
